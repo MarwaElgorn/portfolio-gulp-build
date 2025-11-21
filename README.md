@@ -115,7 +115,8 @@ This command executes all tasks and starts the watch mode.
 
 Below is the actual terminal output from running the Gulp build:
 
-![Gulp Build Output](/mnt/data/0a3b753a-2ac9-4a1f-9c9d-4abdc721b535.png)
+![Gulp Build Output](images/gulp-output.png)
+
 
 ---
 
